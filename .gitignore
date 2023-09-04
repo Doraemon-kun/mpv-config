@@ -1,0 +1,4 @@
+fonts/*
+scripts/*
+shaders/*
+!.gitkeep
